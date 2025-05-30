@@ -5,7 +5,7 @@ Tạo 1 thay thế `t.me`, vì các link Telegram `t.me` đã bị chặn tại 
 # Cài đặt
 
 - [Fork](https://github.com/bibicadotnet/telegram-link-redirector/fork) repository này về tài khoản của bạn
-- Triển khai lên Cloudflare Pages -> Cloudflare Workers & Pages -> importing Git repository này vào phần Pages
+- Triển khai lên Cloudflare Pages -> Cloudflare Workers & Pages -> importing Git repository này vào phần Pages (nên dùng trên tài khoản Cloudflare phụ, để tránh các giới hạn request hàng ngày)
 - Cấu hình subdomain phụ cho gọn URL
 
 # Sử dụng
