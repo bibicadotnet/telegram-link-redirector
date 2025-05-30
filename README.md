@@ -1,6 +1,6 @@
 # telegram-link-redirector
 
-Tạo 1 thay thế 't.me', vì các link Telegram `t.me` đã bị chặn tại Việt Nam
+Tạo 1 thay thế `t.me`, vì các link Telegram `t.me` đã bị chặn tại Việt Nam
 
 # Cài đặt
 
