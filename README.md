@@ -18,7 +18,7 @@ https://t.me/socks?server=165.121.164.165&port=16554&user=rPXLEwZ4mzVo&pass=h18j
 https://t.me/proxy?server=165.121.164.165&port=16554&user=rPXLEwZ4mzVo&pass=h18jPdIeWe36Fjd8
 ............
 ```
-- ví dụ nếu bạn dùng 1 sub domain phụ `t.bibica.net`, các link `t.me` sẽ thành
+- ví dụ nếu bạn dùng 1 sub domain phụ `t.bibica.net`, các link `t.me` lúc này sẽ thành
 ```
 https://t.bibica.net/+qllIQbJTrj84NDFl
 https://t.bibica.net/bibica.net
