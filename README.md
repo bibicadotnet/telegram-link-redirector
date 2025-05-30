@@ -9,6 +9,7 @@
 - Cấu hình subdomain phụ cho gọn URL
 
 # Sử dụng
+
 - Hỗ trợ các link dạng
 ```
 https://t.me/+qllIQbJTrj84NDFl
@@ -25,6 +26,9 @@ https://t.bibica.net/socks?server=165.121.164.165&port=16554&user=rPXLEwZ4mzVo&p
 https://t.bibica.net/proxy?server=165.121.164.165&port=16554&user=rPXLEwZ4mzVo&pass=h18jPdIeWe36Fjd8
 ............
 ```
+- Trên trình duyệt có thể dùng thêm extension Redirector, giúp tạo Redirect Rule, khi gõ vào trình duyệt, `t.me` tự chuyển sang `t.bibica.net`, cấu hình có sẵn trong repository
+
+# Ghi chú
 
 Ban đầu thuần túy proxy các link từ Telegram sang 1 domain mới, để tránh vấn đề nhà mạng chặn, mà hôm nay mình nhận được thông báo 
 
