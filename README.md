@@ -13,7 +13,7 @@ Tạo 1 thay thế `t.me`, vì các link Telegram `t.me` đã bị chặn tại 
 - Hỗ trợ các link dạng
 ```
 https://t.me/+qllIQbJTrj84NDFl
-https://t.me/bibica.net
+https://t.me/bibica_net
 https://t.me/socks?server=165.121.164.165&port=16554&user=rPXLEwZ4mzVo&pass=h18jPdIeWe36Fjd8
 https://t.me/proxy?server=165.121.164.165&port=16554&user=rPXLEwZ4mzVo&pass=h18jPdIeWe36Fjd8
 ............
@@ -21,7 +21,7 @@ https://t.me/proxy?server=165.121.164.165&port=16554&user=rPXLEwZ4mzVo&pass=h18j
 - ví dụ nếu bạn dùng 1 sub domain phụ `t.bibica.net`, các link `t.me` lúc này sẽ thành
 ```
 https://t.bibica.net/+qllIQbJTrj84NDFl
-https://t.bibica.net/bibica.net
+https://t.bibica.net/bibica_net
 https://t.bibica.net/socks?server=165.121.164.165&port=16554&user=rPXLEwZ4mzVo&pass=h18jPdIeWe36Fjd8
 https://t.bibica.net/proxy?server=165.121.164.165&port=16554&user=rPXLEwZ4mzVo&pass=h18jPdIeWe36Fjd8
 ............
