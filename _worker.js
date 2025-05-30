@@ -5,7 +5,7 @@ export default {
     // Xử lý chuyển hướng trang chủ
     if (url.hostname === 't.bibica.net' && (url.pathname === '/' || url.pathname === '')) {
       return Response.redirect(
-        'https://bibica.net/giai-quyet-telegram-bi-nha-mang-viet-nam-chan-bang-mtproto-socks5-proton-vpn/',
+        'https://github.com/bibicadotnet/telegram-link-redirector/',
         301
       );
     }
@@ -32,7 +32,7 @@ export default {
     // Phát hiện link không tồn tại (trả về trang chủ Telegram)
     if (response.url.endsWith('t.me/') || response.url.endsWith('telegram.org/')) {
       return Response.redirect(
-        'https://bibica.net/giai-quyet-telegram-bi-nha-mang-viet-nam-chan-bang-mtproto-socks5-proton-vpn/',
+        'https://github.com/bibicadotnet/telegram-link-redirector/',
         302
       );
     }
