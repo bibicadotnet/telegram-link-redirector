@@ -1,6 +1,6 @@
 # telegram-link-redirector
 
-`t.bibica.net` sẽ có tác dụng tương tự như `t.me`, thay thế vì các link Telegram `t.me` đã bị chặn tại Việt Nam
+Tạo 1 thay thế 't.me', vì các link Telegram `t.me` đã bị chặn tại Việt Nam
 
 # Cài đặt
 
