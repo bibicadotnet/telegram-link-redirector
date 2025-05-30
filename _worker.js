@@ -1,7 +1,7 @@
 export default {
   async fetch(request) {
     const url = new URL(request.url);
-    const HOMEPAGE = 'https://bibica.net/giai-quyet-telegram-bi-nha-mang-viet-nam-chan-bang-mtproto-socks5-proton-vpn/';
+    const HOMEPAGE = 'https://github.com/bibicadotnet/telegram-link-redirector/';
     const TELEGRAM_HOMEPAGE = 'https://t.me/';
 
     // 1. Xử lý yêu cầu đến trang chủ của chúng ta
